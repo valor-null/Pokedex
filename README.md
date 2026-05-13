@@ -16,3 +16,7 @@ This project was developed using **HTML, CSS, and JavaScript** to practice fetch
 ## 🚀 How to run
 1. Download or clone this repository.
 2. Open the `index.html` file in your browser.
+
+| | |
+|:---:|:---:|
+| ![pokebola](./assets/project/foto1.png) | ![pokebola](./assets/project/foto2.png) |
